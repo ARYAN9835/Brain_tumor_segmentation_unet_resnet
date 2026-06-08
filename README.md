@@ -1,5 +1,7 @@
  Brain Tumor Segmentation using U-Net, ResNet34 & ResNet50
 
+ 📄 Published on IEEE Xplore: [View Research Paper](https://ieeexplore.ieee.org/document/11233704)
+
 This project focuses on medical image segmentation for brain tumors using deep learning. We compare the performance of three architectures:
 - A standalone **U-Net**,
 - **U-Net with ResNet34** as the encoder backbone,
